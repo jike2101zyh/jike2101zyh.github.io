@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: jike2101zyh.github.io/sitemap.xml
